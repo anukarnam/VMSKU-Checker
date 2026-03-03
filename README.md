@@ -28,7 +28,7 @@ This PowerShell script will check the availability of the required Azure VM SKUs
 ## How to Use
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/anukarnam/VMSKU-Checker.git
 ```
 ### 2. Run the Script
 Execute the script in a PowerShell terminal:
