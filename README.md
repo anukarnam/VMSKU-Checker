@@ -50,10 +50,10 @@ Execute the script in a PowerShell terminal:
    - Outputs availability status and replacement suggestions.
 ## Customization
 - To add new regions or SKUs, modify the `$regions` and `$skusToCheck` variables in the script.
-
+  
 ## License
 - This project is licensed under the MIT License.
-- 
+ 
 ## Contributing
 - Contributions are welcome! Please fork the repository and submit a pull request.
 
